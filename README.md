@@ -3,6 +3,7 @@
 > 一款以去回合制卡牌战斗为特色的 2D 卡牌构筑 Roguelike Demo。
 
 网页地址：https://gleeful-kitsune-c926ee.netlify.app/
+演示视频：https://www.bilibili.com/video/BV18NHY6eEai
 ## 项目简介
 
 《代号：向山行》是一款以去回合制卡牌战斗为特色的 2D 卡牌构筑 Roguelike Demo。本作打破了传统卡牌游戏的费用机制和回合机制，将费用与敌人的行动关联起来。玩家每次出牌都会推进“时刻”，而随着时刻的推进，敌人会进行攻击、防御等行动，促使玩家根据敌人即将施展的行动来采取出牌策略，提供独特且具有深度的战斗体验。
